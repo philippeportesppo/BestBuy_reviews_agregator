@@ -9,7 +9,8 @@ The scripts require a Category Path (here I put abcat0502000) value that every p
 
 To identify this value, you can query a product of that category and check the response. 
 Example: curl "https://api.bestbuy.com/v1/categories(name=Sony%20DSLR%20Camera*)?format
-Answer:{
+Answer:
+{
   "from": 1,
   "to": 1,
   "total": 1,
