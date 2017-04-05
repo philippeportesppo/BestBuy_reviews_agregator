@@ -8,7 +8,8 @@ Example of usage: BestBuy_Reviews.py abcat0502000
 The scripts require a Category Path (here I put abcat0502000) value that every products below will be parsed. 
 
 To identify this value, you can query a product of that category and check the response. 
-Example: curl "https://api.bestbuy.com/v1/categories(name=Sony%20DSLR%20Camera*)?format
+Example: 
+   curl "https://api.bestbuy.com/v1/categories(name=Sony%20DSLR%20Camera*)?format
 Answer:
 {
   "from": 1,
