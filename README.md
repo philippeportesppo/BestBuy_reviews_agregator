@@ -50,3 +50,6 @@ Answer:
 An optional export_SKU parameter allows to dump the SKU id related to the review.
 
 Example: BestBuy_Reviews.py abcat0502000 export_SKU
+
+Hope you like it!
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/philippeportesppo)
